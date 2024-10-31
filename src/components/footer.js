@@ -1,4 +1,4 @@
-import './index.css';
+import "./styles.css";
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookF, faYoutube, faLinkedin } from '@fortawesome/free-brands-svg-icons';
